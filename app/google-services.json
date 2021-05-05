@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95319236567",
+    "project_id": "bakerybenarfa",
+    "storage_bucket": "bakerybenarfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95319236567:android:0b784ba26254a13a57f592",
+        "android_client_info": {
+          "package_name": "io.eskills.benarfaboulangerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95319236567-2o23eqt49jccvo2r9uu5d9o3edn4i5rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXVWrVgxL1ZDzQ9ABC4BnLUNBoqBWqOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95319236567-2o23eqt49jccvo2r9uu5d9o3edn4i5rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
